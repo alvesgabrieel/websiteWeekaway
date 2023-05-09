@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <div className="w-full h-[90vh]">
       <img
-        src="https://lh3.googleusercontent.com/qJJNhSTEud5GdzRAocA6_ezQQuayhjmIGtC_CBz4JcpqAUsyaMJ60bNFf6gIafzG7wNdywdoC8h4LeHiIPvYCpruOTt7ZoAE5rCZzrfF"
+        src="https://s2.glbimg.com/uN1cosUVJ5nYQqjibbrbPwTYEIQ=/e.glbimg.com/og/ed/f/original/2020/03/04/maldives-1993704_1280.jpg"
         alt="/"
         className="w-full h-full object-cover"
       />
