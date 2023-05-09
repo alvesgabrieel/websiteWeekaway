@@ -13,8 +13,8 @@ const Gallery = () => {
         <div>
           <img
             className="w-full h-full object-cover"
-            src="http://myhols.ie/wp-content/uploads/2018/01/pexels-photo-298007-1024x682-0-900x.jpg"
-            alt="cabana resort tumandre"
+            src="https://viajandocomamalarosa.com.br/wp-content/uploads/2020/05/Ocean-Palace.jpg"
+            alt="resort ponta negra"
           />
         </div>
         <div>
